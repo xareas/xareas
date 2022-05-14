@@ -27,19 +27,19 @@ Xavier Areas Rios
 ---
 ## Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=buefy&count_private=true&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=buefy&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,assembly&theme=buefy&langs_count=7&layout=compact&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=buefy" width = 420 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=xareas&show_icons=true&theme=buefy&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=xareas&theme=buefy&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xareas&hide=html,cmake,css,scss,assembly&theme=buefy&langs_count=7&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xareas&hide_border=true&theme=buefy" width = 420 >
  
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=xareas&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jxareas&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="jxareas" />
+  <img src="https://komarev.com/ghpvc/?username=xareas&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="xareas" />
 </p>
 
 
